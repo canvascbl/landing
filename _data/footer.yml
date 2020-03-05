@@ -1,0 +1,35 @@
+- links:
+  - name: Pricing
+    link: /pricing/
+  - name: Blog
+    link: /blog/
+  - name: About
+    link: /about/
+  - name: Contact
+    link: https://go.canvascbl.com/help/contact
+- links:
+  - name: Login
+    link: https://go.canvascbl.com/f-signin
+    new_window: false
+  - name: Sign Up
+    link: https://go.canvascbl.com/f-signin
+    new_window: false
+  - name: Docs
+    link: https://go.canvascbl.com/docs
+    new_window: true
+  - name: Status
+    link: https://go.canvascbl.com/status
+    new_window: true
+- links:
+  - name: Instagram
+    link: https://instagram.com/canvascbl
+    new_window: true
+    social_icon: Facebook
+  - name: Twitter
+    link: https://twitter.com/canvascbl/
+    social_icon: Twitter
+    new_window: true
+  - name: GitHub
+    link: https://github.com/canvascbl/
+    social_icon: GitHub
+    new_window: true
