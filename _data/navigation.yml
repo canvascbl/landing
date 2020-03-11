@@ -15,6 +15,6 @@
   new_window: false
   highlight: false
 - name: Go to CanvasCBL
-  link: https://go.canvascbl.com/l-checkitout
+  link: https://go.canvascbl.com/l/checkitout
   new_window: true
   highlight: true
