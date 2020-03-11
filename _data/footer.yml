@@ -9,10 +9,10 @@
     link: https://go.canvascbl.com/help/contact
 - links:
   - name: Login
-    link: https://go.canvascbl.com/f-signin
+    link: https://go.canvascbl.com/l/footer-app
     new_window: false
   - name: Sign Up
-    link: https://go.canvascbl.com/f-signin
+    link: https://go.canvascbl.com/l/footer-app
     new_window: false
   - name: Docs
     link: https://go.canvascbl.com/docs
