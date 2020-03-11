@@ -2,7 +2,7 @@
 # Site
 
 title: "CanvasCBL"
-url: "https://landing-stg.canvascbl.com"
+url: "https://canvascbl.com"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -10,15 +10,15 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product marketing template for Jekyll.
+description: "CanvasCBL: A better way to better grades"
 author:
   name:
-  email:
-  twitter: # twitter username without the @ symbol
+  email: support@canvascbl.com
+  twitter: canvascbl
 social:
-  name: Hydra Template
+  name: CanvasCBL
   links:
-    - https://github.com/CloudCannon/hydra-jekyll-template
+    - https://canvascbl.com
 
 # -----
 # Build
