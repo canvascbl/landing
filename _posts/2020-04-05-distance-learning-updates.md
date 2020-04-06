@@ -8,7 +8,7 @@ author_staff_member: sam
 
 CanvasCBL is adapting to distance learning with you.
 
-First, in case toy missed it, CanvasCBL+ is free while we're doing distance
+First, in case you missed it, CanvasCBL+ is free while we're doing distance
 learning. Once you [log into CanvasCBL](https://app.canvascbl.com), you'll
 already have plus. Enjoy!
 
