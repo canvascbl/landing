@@ -190,3 +190,23 @@ blockquote:before {
 	}
 
 }
+
+.deprecation-warning {
+	background-color: #ed4022;
+	color: rgb(255, 255, 255);
+	padding: 10px 15px;
+	margin: 0;
+	font-size: 24px;
+	font-weight: bold;
+	box-shadow: 1px 1px 5px 0 rgba(0, 0, 0, 0.2);
+	text-align: center;
+
+	a {
+		color: #fff;
+		text-decoration: underline;
+	}
+
+	@media only screen and (max-width: 600px) {
+		font-size: 18px;
+	}
+}
